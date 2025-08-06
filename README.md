@@ -6,4 +6,4 @@
 
 ## Mi Proyecto (final)
 
-![Prueba](Choripan.jpg)
+![Prueba](Super_Nestor_bros.jpg)
