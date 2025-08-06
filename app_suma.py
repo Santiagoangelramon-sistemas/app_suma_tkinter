@@ -39,7 +39,7 @@ ventana_principal = Tk()
 ventana_principal.title("Santiago Angel Ramon (kangelox_draw)")
 ventana_principal.geometry("800x500")
 ventana_principal.resizable(0, 0)
-ventana_principal.config(bg="red")
+ventana_principal.config(bg="black")
 
 # --------------------------
 # variables globales
